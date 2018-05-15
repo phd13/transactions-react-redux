@@ -1,0 +1,1 @@
+Hello, this is a simple test project baset on simple boilerplate. Please install dependencies using `npm install`, then execute `npm start`. For successful authentication use credentials from `src/auth-db.json`

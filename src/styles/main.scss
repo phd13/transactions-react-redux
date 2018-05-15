@@ -1,0 +1,23 @@
+* { box-sizing: border-box; }
+
+.auth {
+  input,
+  button {
+    display: block;
+  }
+}
+
+.navigation {
+  display: flex;
+  * {
+    margin: 5px;
+  }
+}
+
+.view-transactions {
+  table {
+    td {
+      border: 1px solid #ccc;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "bankId": 0,
+    "bankName": "Сбербанк"
+  },
+  {
+    "bankId": 1,
+    "bankName": "ВТБ"
+  },
+  {
+    "bankId": 2,
+    "bankName": "Бин Банк"
+  },
+  {
+    "bankId": 3,
+    "bankName": "Рос Банк"
+  },
+  {
+    "bankId": 4,
+    "bankName": "Альфа Банк"
+  }
+]
